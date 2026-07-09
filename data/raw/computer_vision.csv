@@ -1,0 +1,31 @@
+Skill,Category,Priority,Type,Aliases
+Computer Vision,Computer Vision,High,Technical,CV
+OpenCV,Computer Vision,High,Technical,cv2
+Image Processing,Computer Vision,High,Technical,
+Image Classification,Computer Vision,High,Technical,
+Object Detection,Computer Vision,High,Technical,
+Object Tracking,Computer Vision,Medium,Technical,
+Image Segmentation,Computer Vision,High,Technical,
+Semantic Segmentation,Computer Vision,Medium,Technical,
+Instance Segmentation,Computer Vision,Medium,Technical,
+Face Detection,Computer Vision,Medium,Technical,
+Face Recognition,Computer Vision,Medium,Technical,
+OCR,Computer Vision,High,Technical,Optical Character Recognition
+YOLO,Computer Vision,High,Technical,You Only Look Once
+YOLOv5,Computer Vision,Medium,Technical,
+YOLOv8,Computer Vision,High,Technical,
+Mask R-CNN,Computer Vision,Medium,Technical,Mask RCNN
+Faster R-CNN,Computer Vision,Medium,Technical,Faster RCNN
+SSD,Computer Vision,Medium,Technical,Single Shot Detector
+MediaPipe,Computer Vision,Medium,Technical,
+Detectron2,Computer Vision,Medium,Technical,
+MMDetection,Computer Vision,Medium,Technical,
+Albumentations,Computer Vision,Medium,Technical,
+Image Augmentation,Computer Vision,High,Technical,
+Feature Extraction,Computer Vision,High,Technical,
+Edge Detection,Computer Vision,Medium,Technical,
+Contour Detection,Computer Vision,Medium,Technical,
+Haar Cascade,Computer Vision,Medium,Technical,
+ORB,Computer Vision,Low,Technical,Oriented FAST and Rotated BRIEF
+SIFT,Computer Vision,Medium,Technical,Scale Invariant Feature Transform
+SURF,Computer Vision,Low,Technical,Speeded Up Robust Features

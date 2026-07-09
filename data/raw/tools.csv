@@ -1,0 +1,16 @@
+Skill,Category,Priority,Type,Aliases
+Git,Tools,High,Technical,
+GitHub,Tools,High,Technical,
+GitLab,Tools,Medium,Technical,
+Bitbucket,Tools,Medium,Technical,
+VS Code,Tools,High,Technical,Visual Studio Code
+Jupyter Notebook,Tools,High,Technical,
+PyCharm,Tools,Medium,Technical,
+Docker Desktop,Tools,Medium,Technical,
+Anaconda,Tools,Medium,Technical,
+Google Colab,Tools,Medium,Technical,
+Figma,Tools,Low,Technical,
+Notion,Tools,Low,Technical,
+Slack,Tools,Low,Technical,
+Jira,Tools,High,Technical,
+Confluence,Tools,Medium,Technical,

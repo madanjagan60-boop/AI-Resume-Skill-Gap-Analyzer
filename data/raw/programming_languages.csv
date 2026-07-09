@@ -1,0 +1,26 @@
+Skill,Category,Priority,Type,Aliases
+Python,Programming Language,High,Technical,python3
+Java,Programming Language,High,Technical,
+C,Programming Language,Medium,Technical,
+C++,Programming Language,High,Technical,CPP
+C#,Programming Language,Medium,Technical,CSharp
+JavaScript,Programming Language,High,Technical,JS;ECMAScript
+TypeScript,Programming Language,High,Technical,TS
+Go,Programming Language,Medium,Technical,Golang
+Rust,Programming Language,Medium,Technical,
+Kotlin,Programming Language,Medium,Technical,
+Swift,Programming Language,Medium,Technical,
+PHP,Programming Language,Medium,Technical,
+Ruby,Programming Language,Low,Technical,
+R,Programming Language,High,Technical,R Language
+MATLAB,Programming Language,Medium,Technical,
+Scala,Programming Language,Medium,Technical,
+Perl,Programming Language,Low,Technical,
+Dart,Programming Language,Medium,Technical,
+Lua,Programming Language,Low,Technical,
+Shell Scripting,Programming Language,Medium,Technical,Bash;Shell
+PowerShell,Programming Language,Medium,Technical,
+Julia,Programming Language,Medium,Technical,
+Visual Basic,Programming Language,Low,Technical,VB
+Objective-C,Programming Language,Low,Technical,
+Assembly,Programming Language,Low,Technical,ASM

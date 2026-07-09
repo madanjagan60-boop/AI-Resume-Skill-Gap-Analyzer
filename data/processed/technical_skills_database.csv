@@ -1,0 +1,399 @@
+Skill,Category,Priority,Type,Aliases
+A/B Testing,Data Analytics,Medium,Technical,AB Testing
+AJAX,Web Development,Medium,Technical,
+API Testing,Testing,High,Technical,
+AUC,Machine Learning,Medium,Technical,ROC AUC
+AWS,DevOps,High,Technical,Amazon Web Services
+AWS Lambda,Cloud Computing,High,Technical,Lambda
+Accuracy,Machine Learning,High,Technical,
+Activation Function,Deep Learning,High,Technical,
+Adam Optimizer,Deep Learning,High,Technical,Adam
+Adaptability,Soft Skills,High,Soft,
+Agile Mindset,Soft Skills,Medium,Soft,
+Albumentations,Computer Vision,Medium,Technical,
+Amazon EC2,Cloud Computing,High,Technical,EC2
+Amazon RDS,Cloud Computing,Medium,Technical,RDS
+Amazon Redshift,Database,Medium,Technical,Redshift
+Amazon S3,Cloud Computing,High,Technical,S3
+Amazon Web Services,Cloud Computing,High,Technical,AWS
+Anaconda,Tools,Medium,Technical,
+Analytical Thinking,Soft Skills,High,Soft,
+Android Development,Mobile Development,High,Technical,
+Angular,Web Development,Medium,Technical,
+Ansible,DevOps,Medium,Technical,
+Apache Airflow,Data Engineering,High,Technical,
+Apache Flink,Big Data,Medium,Technical,
+Apache HBase,Database,Medium,Technical,HBase
+Apache HTTP Server,DevOps,Low,Technical,Apache
+Apache Hive,Big Data,Medium,Technical,
+Apache Kafka,Data Engineering,High,Technical,
+Apache Pig,Big Data,Low,Technical,
+Apache Spark,Data Engineering,High,Technical,
+Apache Spark SQL,Big Data,Medium,Technical,
+Apache Storm,Big Data,Low,Technical,
+Application Security,Cybersecurity,High,Technical,AppSec
+Artificial Neural Networks,Deep Learning,High,Technical,ANN
+Assembly,Programming Language,Low,Technical,ASM
+Attention Mechanism,Deep Learning,High,Technical,Attention
+Attention to Detail,Soft Skills,Medium,Soft,
+Autoencoder,Deep Learning,Medium,Technical,
+Automation Testing,Testing,High,Technical,
+Azure App Service,Cloud Computing,Medium,Technical,
+Azure Functions,Cloud Computing,Medium,Technical,
+BERT,NLP,High,Technical,Bidirectional Encoder Representations from Transformers
+Backpropagation,Deep Learning,High,Technical,
+Bag of Words,NLP,Medium,Technical,BoW
+Bash,DevOps,Medium,Technical,Shell
+Batch Normalization,Deep Learning,Medium,Technical,
+BigQuery,Data Engineering,High,Technical,
+Binary Crossentropy,Deep Learning,Medium,Technical,
+Bitbucket,DevOps,Low,Technical,
+Bootstrap,Web Development,Medium,Technical,
+Business Intelligence,Data Analytics,Medium,Technical,BI
+C,Programming Language,Medium,Technical,
+C#,Programming Language,Medium,Technical,CSharp
+C++,Programming Language,High,Technical,CPP
+CDN,Networking,Medium,Technical,
+CI/CD,DevOps,High,Technical,Continuous Integration Continuous Deployment
+CSS,Web Development,High,Technical,CSS3
+Cassandra,Database,Medium,Technical,Apache Cassandra
+CatBoost,Machine Learning,Medium,Technical,
+Categorical Crossentropy,Deep Learning,Medium,Technical,
+CentOS,DevOps,Low,Technical,
+ChromaDB,NLP,Medium,Technical,Chroma
+Cloud Functions,Cloud Computing,Medium,Technical,Serverless Functions
+Cloud Run,Cloud Computing,Medium,Technical,Google Cloud Run
+Cloud SQL,Cloud Computing,Medium,Technical,
+Cloud Security,Cybersecurity,High,Technical,
+Cloud Storage,Cloud Computing,High,Technical,
+Coaching,Soft Skills,Low,Soft,
+Collaboration,Soft Skills,High,Soft,
+Communication,Soft Skills,High,Soft,
+Computer Vision,Computer Vision,High,Technical,CV
+Conflict Resolution,Soft Skills,Medium,Soft,
+Confluence,Tools,Medium,Technical,
+Confusion Matrix,Machine Learning,High,Technical,
+Continuous Learning,Soft Skills,High,Soft,Lifelong Learning
+Contour Detection,Computer Vision,Medium,Technical,
+Convolutional Neural Networks,Deep Learning,High,Technical,CNN
+CouchDB,Database,Low,Technical,
+Creativity,Soft Skills,Medium,Soft,
+Critical Thinking,Soft Skills,High,Soft,
+Cron Jobs,Operating System,Low,Technical,
+Cross Validation,Machine Learning,High,Technical,Cross-Validation
+Customer Focus,Soft Skills,Medium,Soft,
+Cybersecurity,Cybersecurity,High,Technical,Information Security
+DBSCAN,Machine Learning,Medium,Technical,
+DHCP,Networking,Medium,Technical,
+DNS,Networking,High,Technical,
+Dart,Programming Language,Medium,Technical,
+Dashboard Development,Data Analytics,Medium,Technical,Dashboards
+Data Cleaning,Data Analytics,High,Technical,
+Data Interpretation,Data Analytics,Medium,Technical,
+Data Lake,Data Engineering,Medium,Technical,
+Data Pipeline,Data Engineering,High,Technical,
+Data Visualization,Data Analytics,High,Technical,
+Data Warehouse,Data Engineering,High,Technical,
+Data Wrangling,Data Analytics,High,Technical,
+Decision Making,Soft Skills,Medium,Soft,
+Decision Tree,Machine Learning,High,Technical,Decision Trees
+Deep Neural Networks,Deep Learning,High,Technical,DNN
+Delta Lake,Data Engineering,Medium,Technical,
+Detectron2,Computer Vision,Medium,Technical,
+Digital Forensics,Cybersecurity,Low,Technical,
+DigitalOcean,Cloud Computing,Medium,Technical,
+DistilBERT,NLP,Medium,Technical,
+Distributed Computing,Big Data,High,Technical,
+Django,Web Development,High,Technical,
+Doc2Vec,NLP,Medium,Technical,
+Docker,DevOps,High,Technical,
+Docker Compose,DevOps,Medium,Technical,
+Docker Desktop,Tools,Medium,Technical,
+Dropout,Deep Learning,Medium,Technical,
+DynamoDB,Database,Medium,Technical,AWS DynamoDB
+ELT,Data Engineering,Medium,Technical,
+ETL,Data Engineering,High,Technical,
+Edge Detection,Computer Vision,Medium,Technical,
+Elasticsearch,Database,Medium,Technical,ElasticSearch
+Embedding Layer,Deep Learning,High,Technical,Embeddings
+Emotional Intelligence,Soft Skills,Medium,Soft,EQ
+Encoder-Decoder Architecture,Deep Learning,Medium,Technical,Seq2Seq
+Encryption,Cybersecurity,High,Technical,Cryptography
+Endpoint Security,Cybersecurity,Medium,Technical,
+Ethical Hacking,Cybersecurity,Medium,Technical,
+Exploratory Data Analysis,Data Analytics,High,Technical,EDA
+Express.js,Web Development,High,Technical,Express
+F1 Score,Machine Learning,High,Technical,F1
+FAISS,NLP,High,Technical,Facebook AI Similarity Search
+FTP,Networking,Medium,Technical,
+Face Detection,Computer Vision,Medium,Technical,
+Face Recognition,Computer Vision,Medium,Technical,
+FastAPI,Web Development,High,Technical,
+FastText,NLP,Medium,Technical,
+Faster R-CNN,Computer Vision,Medium,Technical,Faster RCNN
+Feature Engineering,Data Analytics,High,Technical,
+Feature Extraction,Computer Vision,High,Technical,
+Feature Selection,Machine Learning,High,Technical,
+Figma,Tools,Low,Technical,
+File System Management,Operating System,Medium,Technical,
+Fine-Tuning,Deep Learning,High,Technical,Fine Tuning
+Firebase,Cloud Computing,Medium,Technical,
+Firebase Firestore,Database,Medium,Technical,Firestore
+Firewalls,Cybersecurity,Medium,Technical,
+Flask,Web Development,High,Technical,
+Flexibility,Soft Skills,Medium,Soft,
+Flutter,Mobile Development,High,Technical,
+GPT,NLP,High,Technical,Generative Pre-trained Transformer
+Gated Recurrent Unit,Deep Learning,Medium,Technical,GRU
+Gemma,NLP,Medium,Technical,
+Generative Adversarial Networks,Deep Learning,Medium,Technical,GAN
+Gensim,NLP,Medium,Technical,
+Git,DevOps,High,Technical,
+GitHub,DevOps,High,Technical,
+GitHub Actions,DevOps,High,Technical,
+GitLab,DevOps,Medium,Technical,
+GitLab CI/CD,DevOps,Medium,Technical,
+Go,Programming Language,Medium,Technical,Golang
+Google BigQuery,Database,High,Technical,BigQuery
+Google Cloud Platform,Cloud Computing,High,Technical,GCP
+Google Cloud Storage,Cloud Computing,Medium,Technical,GCS
+Google Colab,Tools,Medium,Technical,
+Google Compute Engine,Cloud Computing,Medium,Technical,GCE
+Google Maps API,Mobile Development,Medium,Technical,
+Google Sheets,Data Analytics,Medium,Technical,Sheets
+Gradient Descent,Deep Learning,High,Technical,
+Gradio,Web Development,Medium,Technical,
+GraphQL,Web Development,Medium,Technical,
+Grid Search,Machine Learning,Medium,Technical,GridSearchCV
+HDFS,Big Data,Medium,Technical,
+HTML,Web Development,High,Technical,HTML5
+HTTP,Networking,High,Technical,
+HTTPS,Networking,High,Technical,
+Haar Cascade,Computer Vision,Medium,Technical,
+Hadoop,Big Data,High,Technical,
+Helm,DevOps,Medium,Technical,
+Heroku,Cloud Computing,Low,Technical,
+Hierarchical Clustering,Machine Learning,Medium,Technical,
+Hugging Face,NLP,High,Technical,HuggingFace
+Hyperparameter Tuning,Machine Learning,High,Technical,
+IBM Cloud,Cloud Computing,Low,Technical,
+IBM Db2,Database,Low,Technical,DB2
+Identity and Access Management,Cybersecurity,High,Technical,IAM
+Image Augmentation,Computer Vision,High,Technical,
+Image Classification,Computer Vision,High,Technical,
+Image Processing,Computer Vision,High,Technical,
+Image Segmentation,Computer Vision,High,Technical,
+Incident Response,Cybersecurity,Medium,Technical,
+Innovation,Soft Skills,Medium,Soft,
+Instance Segmentation,Computer Vision,Medium,Technical,
+Integration Testing,Testing,High,Technical,
+JMeter,Testing,Medium,Technical,
+JSON,Web Development,High,Technical,
+JUnit,Testing,Medium,Technical,
+JWT,Web Development,Medium,Technical,JSON Web Token
+Java,Programming Language,High,Technical,
+JavaScript,Programming Language,High,Technical,JS;ECMAScript
+Jenkins,DevOps,Medium,Technical,
+Jetpack Compose,Mobile Development,Medium,Technical,
+Jinja2,Web Development,Low,Technical,
+Jira,Tools,High,Technical,
+Julia,Programming Language,Medium,Technical,
+Jupyter Notebook,Tools,High,Technical,
+K-Means Clustering,Machine Learning,Medium,Technical,KMeans
+K-Nearest Neighbors,Machine Learning,Medium,Technical,KNN
+Keras,Machine Learning,High,Technical,
+Kotlin,Mobile Development,High,Technical,
+Kubernetes,DevOps,High,Technical,K8s
+LLaMA,NLP,High,Technical,Llama
+LangChain,NLP,High,Technical,
+Leadership,Soft Skills,Medium,Soft,
+Lemmatization,NLP,High,Technical,
+LightGBM,Machine Learning,Medium,Technical,LGBM
+Linear Regression,Machine Learning,High,Technical,
+Linode,Cloud Computing,Low,Technical,
+Linux,DevOps,High,Technical,
+LlamaIndex,NLP,Medium,Technical,
+Load Balancing,Networking,Medium,Technical,
+Load Testing,Testing,Medium,Technical,
+Logistic Regression,Machine Learning,High,Technical,
+Long Short-Term Memory,Deep Learning,High,Technical,LSTM
+Looker Studio,Data Analytics,Medium,Technical,Google Data Studio
+Loss Function,Deep Learning,High,Technical,
+Lua,Programming Language,Low,Technical,
+MATLAB,Programming Language,Medium,Technical,
+MMDetection,Computer Vision,Medium,Technical,
+MVVM,Mobile Development,Medium,Technical,
+Malware Analysis,Cybersecurity,Low,Technical,
+Manual Testing,Testing,Medium,Technical,
+MapReduce,Big Data,Medium,Technical,
+MariaDB,Database,Medium,Technical,
+Mask R-CNN,Computer Vision,Medium,Technical,Mask RCNN
+Matplotlib,Data Analytics,High,Technical,
+MediaPipe,Computer Vision,Medium,Technical,
+Mentoring,Soft Skills,Low,Soft,
+Microsoft Azure,Cloud Computing,High,Technical,Azure
+Microsoft Excel,Data Analytics,High,Technical,Excel
+Microsoft SQL Server,Database,High,Technical,MSSQL;SQL Server
+Mistral,NLP,Medium,Technical,
+Model Evaluation,Machine Learning,High,Technical,
+MongoDB,Database,High,Technical,Mongo
+MySQL,Database,High,Technical,
+NLTK,NLP,High,Technical,
+Naive Bayes,Machine Learning,Medium,Technical,
+Named Entity Recognition,NLP,High,Technical,NER
+Natural Language Processing,NLP,High,Technical,NLP
+Negotiation,Soft Skills,Medium,Soft,
+Neo4j,Database,Medium,Technical,
+Netlify,Cloud Computing,Low,Technical,
+Network Security,Cybersecurity,High,Technical,
+Network Troubleshooting,Networking,Medium,Technical,
+Next.js,Web Development,Medium,Technical,NextJS
+Nginx,DevOps,Medium,Technical,
+NoSQL,Big Data,High,Technical,
+Node.js,Web Development,High,Technical,NodeJS
+Notion,Tools,Low,Technical,
+NumPy,Data Analytics,High,Technical,Numpy
+OAuth,Web Development,Medium,Technical,
+OCR,Computer Vision,High,Technical,Optical Character Recognition
+ORB,Computer Vision,Low,Technical,Oriented FAST and Rotated BRIEF
+OSI Model,Networking,Medium,Technical,
+OWASP,Cybersecurity,High,Technical,
+Object Detection,Computer Vision,High,Technical,
+Object Tracking,Computer Vision,Medium,Technical,
+Objective-C,Programming Language,Low,Technical,
+Ollama,NLP,Medium,Technical,
+OpenCV,Computer Vision,High,Technical,cv2
+OpenPyXL,Data Analytics,Low,Technical,
+Oracle Cloud Infrastructure,Cloud Computing,Medium,Technical,OCI
+Oracle Database,Database,High,Technical,Oracle
+PHP,Programming Language,Medium,Technical,
+Pandas,Data Analytics,High,Technical,
+Part-of-Speech Tagging,NLP,Medium,Technical,POS Tagging
+Penetration Testing,Cybersecurity,Medium,Technical,Pen Testing
+Performance Testing,Testing,Medium,Technical,
+Perl,Programming Language,Low,Technical,
+Pinecone,NLP,Medium,Technical,
+Plotly,Data Analytics,Medium,Technical,
+PostgreSQL,Database,High,Technical,Postgres
+Postman Testing,Testing,High,Technical,
+Power BI,Data Analytics,High,Technical,PowerBI
+PowerShell,Operating System,Medium,Technical,
+Precision,Machine Learning,High,Technical,
+Presentation Skills,Soft Skills,Medium,Soft,
+Principal Component Analysis,Machine Learning,Medium,Technical,PCA
+Problem Solving,Soft Skills,High,Soft,
+Process Management,Operating System,Medium,Technical,
+Project Management,Soft Skills,Medium,Soft,
+Prompt Engineering,NLP,High,Technical,
+Public Key Infrastructure,Cybersecurity,Medium,Technical,PKI
+Public Speaking,Soft Skills,Medium,Soft,
+Push Notifications,Mobile Development,Medium,Technical,
+PyCharm,Tools,Medium,Technical,
+PyTest,Testing,High,Technical,
+PyTorch,Machine Learning,High,Technical,Torch
+Python,Programming Language,High,Technical,python3
+Question Answering,NLP,Medium,Technical,QA
+R,Programming Language,High,Technical,R Language
+RAG,NLP,High,Technical,Retrieval Augmented Generation
+REST API,Web Development,High,Technical,RESTful API
+REST API Integration,Mobile Development,High,Technical,
+RMSprop,Deep Learning,Medium,Technical,
+ROC Curve,Machine Learning,Medium,Technical,ROC
+Random Forest,Machine Learning,High,Technical,
+Random Search,Machine Learning,Medium,Technical,RandomizedSearchCV
+ReLU,Deep Learning,High,Technical,
+React,Web Development,High,Technical,ReactJS
+React Native,Mobile Development,High,Technical,
+Recall,Machine Learning,High,Technical,
+Recurrent Neural Networks,Deep Learning,High,Technical,RNN
+Redis,Database,Medium,Technical,
+Redshift,Data Engineering,Medium,Technical,
+Regression,Machine Learning,High,Technical,
+Regression Testing,Testing,Medium,Technical,
+Reporting,Data Analytics,Medium,Technical,
+Reverse Proxy,Networking,Medium,Technical,
+Risk Assessment,Cybersecurity,Medium,Technical,
+RoBERTa,NLP,Medium,Technical,
+Room Database,Mobile Development,Medium,Technical,
+Ruby,Programming Language,Low,Technical,
+Rust,Programming Language,Medium,Technical,
+SGD Optimizer,Deep Learning,Medium,Technical,SGD
+SIEM,Cybersecurity,Medium,Technical,
+SIFT,Computer Vision,Medium,Technical,Scale Invariant Feature Transform
+SMTP,Networking,Medium,Technical,
+SOC,Cybersecurity,Medium,Technical,Security Operations Center
+SQL,Data Analytics,High,Technical,Structured Query Language
+SQLite,Database,Medium,Technical,
+SSD,Computer Vision,Medium,Technical,Single Shot Detector
+SSH,Networking,High,Technical,
+SURF,Computer Vision,Low,Technical,Speeded Up Robust Features
+Scala,Programming Language,Medium,Technical,
+SciPy,Data Analytics,Medium,Technical,
+Scikit-learn,Machine Learning,High,Technical,sklearn
+Seaborn,Data Analytics,High,Technical,
+Selenium,Testing,High,Technical,
+Self Learning,Soft Skills,High,Soft,Self-Learning
+Self-Attention,Deep Learning,High,Technical,
+Semantic Segmentation,Computer Vision,Medium,Technical,
+Sentence Transformers,NLP,High,Technical,sentence-transformers
+Sentiment Analysis,NLP,High,Technical,
+Serverless Computing,Cloud Computing,Medium,Technical,Serverless
+Shell Scripting,Operating System,High,Technical,Bash
+Sigmoid,Deep Learning,Medium,Technical,
+Slack,Tools,Low,Technical,
+Snowflake,Database,High,Technical,
+Softmax,Deep Learning,Medium,Technical,
+Stakeholder Management,Soft Skills,Medium,Soft,
+Statistical Analysis,Data Analytics,High,Technical,
+Statsmodels,Data Analytics,Medium,Technical,
+Stemming,NLP,Medium,Technical,
+Streamlit,Web Development,High,Technical,
+Support Vector Machine,Machine Learning,High,Technical,SVM
+Swift,Mobile Development,High,Technical,
+System Administration,Operating System,Medium,Technical,
+System Testing,Testing,Medium,Technical,
+T5,NLP,Medium,Technical,Text-to-Text Transfer Transformer
+TCP/IP,Networking,High,Technical,
+TF-IDF,NLP,High,Technical,TFIDF
+Tableau,Data Analytics,High,Technical,
+Tailwind CSS,Web Development,Medium,Technical,Tailwind
+Tanh,Deep Learning,Medium,Technical,
+Teamwork,Soft Skills,High,Soft,
+TensorFlow,Machine Learning,High,Technical,Tensorflow
+Terraform,DevOps,Medium,Technical,
+TestNG,Testing,Medium,Technical,
+Text Classification,NLP,High,Technical,
+Text Summarization,NLP,Medium,Technical,
+TextBlob,NLP,Medium,Technical,
+Time Management,Soft Skills,High,Soft,
+Tokenization,NLP,High,Technical,
+Topic Modeling,NLP,Medium,Technical,
+Transfer Learning,Deep Learning,High,Technical,
+Transformer,Deep Learning,High,Technical,Transformers
+Transformers,NLP,High,Technical,Hugging Face Transformers
+TypeScript,Programming Language,High,Technical,TS
+Ubuntu,DevOps,Medium,Technical,
+Unit Testing,Testing,High,Technical,
+VPN,Cybersecurity,Medium,Technical,Virtual Private Network
+VS Code,Tools,High,Technical,Visual Studio Code
+Variational Autoencoder,Deep Learning,Medium,Technical,VAE
+Vector Database,NLP,Medium,Technical,
+Verbal Communication,Soft Skills,Medium,Soft,
+Vercel,Cloud Computing,Medium,Technical,
+Visual Basic,Programming Language,Low,Technical,VB
+Vue.js,Web Development,Medium,Technical,Vue
+Vulnerability Assessment,Cybersecurity,Medium,Technical,
+Windows Server,Operating System,Medium,Technical,
+Word Embeddings,NLP,High,Technical,Embeddings
+Word2Vec,NLP,Medium,Technical,
+Work Ethic,Soft Skills,Medium,Soft,
+Written Communication,Soft Skills,Medium,Soft,
+XGBoost,Machine Learning,High,Technical,
+XML,Web Development,Medium,Technical,
+XML Layouts,Mobile Development,Medium,Technical,
+YOLO,Computer Vision,High,Technical,You Only Look Once
+YOLOv5,Computer Vision,Medium,Technical,
+YOLOv8,Computer Vision,High,Technical,
+iOS Development,Mobile Development,High,Technical,
+macOS,Operating System,Low,Technical,
+spaCy,NLP,High,Technical,Spacy

@@ -1,0 +1,42 @@
+Skill,Category,Priority,Type,Aliases
+Natural Language Processing,NLP,High,Technical,NLP
+NLTK,NLP,High,Technical,
+spaCy,NLP,High,Technical,Spacy
+TextBlob,NLP,Medium,Technical,
+Gensim,NLP,Medium,Technical,
+Hugging Face,NLP,High,Technical,HuggingFace
+Transformers,NLP,High,Technical,Hugging Face Transformers
+Sentence Transformers,NLP,High,Technical,sentence-transformers
+BERT,NLP,High,Technical,Bidirectional Encoder Representations from Transformers
+RoBERTa,NLP,Medium,Technical,
+DistilBERT,NLP,Medium,Technical,
+GPT,NLP,High,Technical,Generative Pre-trained Transformer
+LLaMA,NLP,High,Technical,Llama
+Mistral,NLP,Medium,Technical,
+Gemma,NLP,Medium,Technical,
+T5,NLP,Medium,Technical,Text-to-Text Transfer Transformer
+Tokenization,NLP,High,Technical,
+Stemming,NLP,Medium,Technical,
+Lemmatization,NLP,High,Technical,
+Part-of-Speech Tagging,NLP,Medium,Technical,POS Tagging
+Named Entity Recognition,NLP,High,Technical,NER
+Text Classification,NLP,High,Technical,
+Text Summarization,NLP,Medium,Technical,
+Question Answering,NLP,Medium,Technical,QA
+Sentiment Analysis,NLP,High,Technical,
+Topic Modeling,NLP,Medium,Technical,
+Word Embeddings,NLP,High,Technical,Embeddings
+Word2Vec,NLP,Medium,Technical,
+FastText,NLP,Medium,Technical,
+Doc2Vec,NLP,Medium,Technical,
+TF-IDF,NLP,High,Technical,TFIDF
+Bag of Words,NLP,Medium,Technical,BoW
+Prompt Engineering,NLP,High,Technical,
+LangChain,NLP,High,Technical,
+LlamaIndex,NLP,Medium,Technical,
+RAG,NLP,High,Technical,Retrieval Augmented Generation
+Vector Database,NLP,Medium,Technical,
+FAISS,NLP,High,Technical,Facebook AI Similarity Search
+ChromaDB,NLP,Medium,Technical,Chroma
+Pinecone,NLP,Medium,Technical,
+Ollama,NLP,Medium,Technical,

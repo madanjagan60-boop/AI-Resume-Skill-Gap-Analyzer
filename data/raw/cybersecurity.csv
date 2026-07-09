@@ -1,0 +1,21 @@
+Skill,Category,Priority,Type,Aliases
+Cybersecurity,Cybersecurity,High,Technical,Information Security
+Network Security,Cybersecurity,High,Technical,
+Application Security,Cybersecurity,High,Technical,AppSec
+Cloud Security,Cybersecurity,High,Technical,
+Endpoint Security,Cybersecurity,Medium,Technical,
+Identity and Access Management,Cybersecurity,High,Technical,IAM
+Encryption,Cybersecurity,High,Technical,Cryptography
+Public Key Infrastructure,Cybersecurity,Medium,Technical,PKI
+Firewalls,Cybersecurity,Medium,Technical,
+VPN,Cybersecurity,Medium,Technical,Virtual Private Network
+SIEM,Cybersecurity,Medium,Technical,
+SOC,Cybersecurity,Medium,Technical,Security Operations Center
+OWASP,Cybersecurity,High,Technical,
+Penetration Testing,Cybersecurity,Medium,Technical,Pen Testing
+Ethical Hacking,Cybersecurity,Medium,Technical,
+Vulnerability Assessment,Cybersecurity,Medium,Technical,
+Risk Assessment,Cybersecurity,Medium,Technical,
+Malware Analysis,Cybersecurity,Low,Technical,
+Digital Forensics,Cybersecurity,Low,Technical,
+Incident Response,Cybersecurity,Medium,Technical,

@@ -1,0 +1,26 @@
+Skill,Category,Priority,Type,Aliases
+Microsoft Excel,Data Analytics,High,Technical,Excel
+Google Sheets,Data Analytics,Medium,Technical,Sheets
+Power BI,Data Analytics,High,Technical,PowerBI
+Tableau,Data Analytics,High,Technical,
+Looker Studio,Data Analytics,Medium,Technical,Google Data Studio
+Pandas,Data Analytics,High,Technical,
+NumPy,Data Analytics,High,Technical,Numpy
+Matplotlib,Data Analytics,High,Technical,
+Plotly,Data Analytics,Medium,Technical,
+Seaborn,Data Analytics,High,Technical,
+SciPy,Data Analytics,Medium,Technical,
+Statsmodels,Data Analytics,Medium,Technical,
+OpenPyXL,Data Analytics,Low,Technical,
+SQL,Data Analytics,High,Technical,Structured Query Language
+Data Cleaning,Data Analytics,High,Technical,
+Data Wrangling,Data Analytics,High,Technical,
+Data Visualization,Data Analytics,High,Technical,
+Exploratory Data Analysis,Data Analytics,High,Technical,EDA
+Feature Engineering,Data Analytics,High,Technical,
+Statistical Analysis,Data Analytics,High,Technical,
+Business Intelligence,Data Analytics,Medium,Technical,BI
+Dashboard Development,Data Analytics,Medium,Technical,Dashboards
+Reporting,Data Analytics,Medium,Technical,
+Data Interpretation,Data Analytics,Medium,Technical,
+A/B Testing,Data Analytics,Medium,Technical,AB Testing

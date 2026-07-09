@@ -1,0 +1,27 @@
+Skill,Category,Priority,Type,Aliases
+Git,DevOps,High,Technical,
+GitHub,DevOps,High,Technical,
+GitLab,DevOps,Medium,Technical,
+Bitbucket,DevOps,Low,Technical,
+Docker,DevOps,High,Technical,
+Docker Compose,DevOps,Medium,Technical,
+Kubernetes,DevOps,High,Technical,K8s
+Jenkins,DevOps,Medium,Technical,
+GitHub Actions,DevOps,High,Technical,
+GitLab CI/CD,DevOps,Medium,Technical,
+CI/CD,DevOps,High,Technical,Continuous Integration Continuous Deployment
+Terraform,DevOps,Medium,Technical,
+Ansible,DevOps,Medium,Technical,
+Helm,DevOps,Medium,Technical,
+Nginx,DevOps,Medium,Technical,
+Apache HTTP Server,DevOps,Low,Technical,Apache
+Linux,DevOps,High,Technical,
+Ubuntu,DevOps,Medium,Technical,
+CentOS,DevOps,Low,Technical,
+Bash,DevOps,Medium,Technical,Shell
+AWS,DevOps,High,Technical,Amazon Web Services
+Microsoft Azure,DevOps,High,Technical,Azure
+Google Cloud Platform,DevOps,High,Technical,GCP
+Firebase,DevOps,Medium,Technical,
+Netlify,DevOps,Low,Technical,
+Vercel,DevOps,Low,Technical,

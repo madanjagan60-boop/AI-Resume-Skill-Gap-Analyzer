@@ -1,0 +1,11 @@
+Skill,Category,Priority,Type,Aliases
+Hadoop,Big Data,High,Technical,
+MapReduce,Big Data,Medium,Technical,
+HDFS,Big Data,Medium,Technical,
+Apache Pig,Big Data,Low,Technical,
+Apache Hive,Big Data,Medium,Technical,
+Apache Spark SQL,Big Data,Medium,Technical,
+Apache Flink,Big Data,Medium,Technical,
+Apache Storm,Big Data,Low,Technical,
+NoSQL,Big Data,High,Technical,
+Distributed Computing,Big Data,High,Technical,

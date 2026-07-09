@@ -1,0 +1,16 @@
+skill,difficulty,priority,reason,learning_path
+python,Beginner,Very High,Core programming language for AI and Data Science,Python Basics -> OOP -> NumPy -> Pandas
+java,Intermediate,High,Widely used for backend and enterprise development,Java Basics -> OOP -> Spring Boot
+c,Beginner,Medium,Builds programming fundamentals,C Basics -> Pointers -> Data Structures
+c++,Intermediate,Medium,Useful for competitive programming and system software,C++ Basics -> STL -> DSA
+sql,Beginner,Very High,Required for working with databases,SQL Basics -> Joins -> Stored Procedures
+aws,Intermediate,Very High,Most popular cloud platform for AI deployment,AWS Cloud Practitioner -> EC2 -> S3 -> IAM
+docker,Intermediate,High,Used to package and deploy applications,Docker Basics -> Images -> Containers -> Docker Compose
+kubernetes,Advanced,Medium,Used to manage containerized applications,Kubernetes Basics -> Pods -> Deployments
+tensorflow,Intermediate,High,Popular deep learning framework,TensorFlow Basics -> Keras -> CNN
+pytorch,Intermediate,High,Widely used deep learning framework,PyTorch Basics -> Neural Networks
+machine learning,Intermediate,Very High,Essential AI skill,Supervised Learning -> Unsupervised Learning
+deep learning,Advanced,High,Used in Computer Vision and NLP,ANN -> CNN -> RNN -> Transformers
+git,Beginner,High,Industry standard version control system,Git Basics -> GitHub -> Branching
+problem solving,Intermediate,Very High,Critical for coding interviews,Arrays -> Strings -> DSA Practice
+communication,Beginner,High,Essential workplace soft skill,Presentation -> Teamwork -> Communication

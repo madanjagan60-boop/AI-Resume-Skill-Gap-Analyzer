@@ -1,0 +1,25 @@
+Skill,Category,Priority,Type,Aliases
+Amazon Web Services,Cloud Computing,High,Technical,AWS
+Microsoft Azure,Cloud Computing,High,Technical,Azure
+Google Cloud Platform,Cloud Computing,High,Technical,GCP
+Oracle Cloud Infrastructure,Cloud Computing,Medium,Technical,OCI
+IBM Cloud,Cloud Computing,Low,Technical,
+Firebase,Cloud Computing,Medium,Technical,
+Heroku,Cloud Computing,Low,Technical,
+Netlify,Cloud Computing,Low,Technical,
+Vercel,Cloud Computing,Medium,Technical,
+DigitalOcean,Cloud Computing,Medium,Technical,
+Linode,Cloud Computing,Low,Technical,
+Cloud Storage,Cloud Computing,High,Technical,
+Cloud Functions,Cloud Computing,Medium,Technical,Serverless Functions
+AWS Lambda,Cloud Computing,High,Technical,Lambda
+Amazon EC2,Cloud Computing,High,Technical,EC2
+Amazon S3,Cloud Computing,High,Technical,S3
+Amazon RDS,Cloud Computing,Medium,Technical,RDS
+Azure App Service,Cloud Computing,Medium,Technical,
+Azure Functions,Cloud Computing,Medium,Technical,
+Google Cloud Storage,Cloud Computing,Medium,Technical,GCS
+Google Compute Engine,Cloud Computing,Medium,Technical,GCE
+Cloud Run,Cloud Computing,Medium,Technical,Google Cloud Run
+Cloud SQL,Cloud Computing,Medium,Technical,
+Serverless Computing,Cloud Computing,Medium,Technical,Serverless

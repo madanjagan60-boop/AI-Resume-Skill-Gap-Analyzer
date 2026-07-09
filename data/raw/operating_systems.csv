@@ -1,0 +1,11 @@
+Skill,Category,Priority,Type,Aliases
+Linux,Operating System,High,Technical,
+Ubuntu,Operating System,Medium,Technical,
+Windows Server,Operating System,Medium,Technical,
+macOS,Operating System,Low,Technical,
+Shell Scripting,Operating System,High,Technical,Bash
+PowerShell,Operating System,Medium,Technical,
+File System Management,Operating System,Medium,Technical,
+Process Management,Operating System,Medium,Technical,
+Cron Jobs,Operating System,Low,Technical,
+System Administration,Operating System,Medium,Technical,

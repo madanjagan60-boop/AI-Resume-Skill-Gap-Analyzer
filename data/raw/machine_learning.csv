@@ -1,0 +1,33 @@
+Skill,Category,Priority,Type,Aliases
+Scikit-learn,Machine Learning,High,Technical,sklearn
+TensorFlow,Machine Learning,High,Technical,Tensorflow
+Keras,Machine Learning,High,Technical,
+PyTorch,Machine Learning,High,Technical,Torch
+XGBoost,Machine Learning,High,Technical,
+LightGBM,Machine Learning,Medium,Technical,LGBM
+CatBoost,Machine Learning,Medium,Technical,
+Regression,Machine Learning,High,Technical,
+Linear Regression,Machine Learning,High,Technical,
+Logistic Regression,Machine Learning,High,Technical,
+Decision Tree,Machine Learning,High,Technical,Decision Trees
+Random Forest,Machine Learning,High,Technical,
+Support Vector Machine,Machine Learning,High,Technical,SVM
+K-Nearest Neighbors,Machine Learning,Medium,Technical,KNN
+Naive Bayes,Machine Learning,Medium,Technical,
+K-Means Clustering,Machine Learning,Medium,Technical,KMeans
+Hierarchical Clustering,Machine Learning,Medium,Technical,
+DBSCAN,Machine Learning,Medium,Technical,
+Principal Component Analysis,Machine Learning,Medium,Technical,PCA
+Feature Selection,Machine Learning,High,Technical,
+Cross Validation,Machine Learning,High,Technical,Cross-Validation
+Hyperparameter Tuning,Machine Learning,High,Technical,
+Grid Search,Machine Learning,Medium,Technical,GridSearchCV
+Random Search,Machine Learning,Medium,Technical,RandomizedSearchCV
+Model Evaluation,Machine Learning,High,Technical,
+Confusion Matrix,Machine Learning,High,Technical,
+Accuracy,Machine Learning,High,Technical,
+Precision,Machine Learning,High,Technical,
+Recall,Machine Learning,High,Technical,
+F1 Score,Machine Learning,High,Technical,F1
+ROC Curve,Machine Learning,Medium,Technical,ROC
+AUC,Machine Learning,Medium,Technical,ROC AUC

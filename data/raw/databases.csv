@@ -1,0 +1,21 @@
+Skill,Category,Priority,Type,Aliases
+MySQL,Database,High,Technical,
+PostgreSQL,Database,High,Technical,Postgres
+SQLite,Database,Medium,Technical,
+Microsoft SQL Server,Database,High,Technical,MSSQL;SQL Server
+Oracle Database,Database,High,Technical,Oracle
+MongoDB,Database,High,Technical,Mongo
+MariaDB,Database,Medium,Technical,
+Redis,Database,Medium,Technical,
+Cassandra,Database,Medium,Technical,Apache Cassandra
+Firebase Firestore,Database,Medium,Technical,Firestore
+Elasticsearch,Database,Medium,Technical,ElasticSearch
+Neo4j,Database,Medium,Technical,
+DynamoDB,Database,Medium,Technical,AWS DynamoDB
+CouchDB,Database,Low,Technical,
+IBM Db2,Database,Low,Technical,DB2
+Snowflake,Database,High,Technical,
+Amazon Redshift,Database,Medium,Technical,Redshift
+Google BigQuery,Database,High,Technical,BigQuery
+Apache Hive,Database,Medium,Technical,Hive
+Apache HBase,Database,Medium,Technical,HBase

@@ -1,0 +1,32 @@
+Skill,Category,Priority,Type,Aliases
+Artificial Neural Networks,Deep Learning,High,Technical,ANN
+Deep Neural Networks,Deep Learning,High,Technical,DNN
+Convolutional Neural Networks,Deep Learning,High,Technical,CNN
+Recurrent Neural Networks,Deep Learning,High,Technical,RNN
+Long Short-Term Memory,Deep Learning,High,Technical,LSTM
+Gated Recurrent Unit,Deep Learning,Medium,Technical,GRU
+Transformer,Deep Learning,High,Technical,Transformers
+Attention Mechanism,Deep Learning,High,Technical,Attention
+Self-Attention,Deep Learning,High,Technical,
+Encoder-Decoder Architecture,Deep Learning,Medium,Technical,Seq2Seq
+Generative Adversarial Networks,Deep Learning,Medium,Technical,GAN
+Autoencoder,Deep Learning,Medium,Technical,
+Variational Autoencoder,Deep Learning,Medium,Technical,VAE
+Transfer Learning,Deep Learning,High,Technical,
+Fine-Tuning,Deep Learning,High,Technical,Fine Tuning
+Batch Normalization,Deep Learning,Medium,Technical,
+Dropout,Deep Learning,Medium,Technical,
+Activation Function,Deep Learning,High,Technical,
+ReLU,Deep Learning,High,Technical,
+Sigmoid,Deep Learning,Medium,Technical,
+Softmax,Deep Learning,Medium,Technical,
+Tanh,Deep Learning,Medium,Technical,
+Backpropagation,Deep Learning,High,Technical,
+Gradient Descent,Deep Learning,High,Technical,
+Adam Optimizer,Deep Learning,High,Technical,Adam
+RMSprop,Deep Learning,Medium,Technical,
+SGD Optimizer,Deep Learning,Medium,Technical,SGD
+Loss Function,Deep Learning,High,Technical,
+Binary Crossentropy,Deep Learning,Medium,Technical,
+Categorical Crossentropy,Deep Learning,Medium,Technical,
+Embedding Layer,Deep Learning,High,Technical,Embeddings

@@ -1,0 +1,26 @@
+Skill,Category,Priority,Type,Aliases
+HTML,Web Development,High,Technical,HTML5
+CSS,Web Development,High,Technical,CSS3
+Bootstrap,Web Development,Medium,Technical,
+Tailwind CSS,Web Development,Medium,Technical,Tailwind
+JavaScript,Web Development,High,Technical,JS
+TypeScript,Web Development,Medium,Technical,TS
+React,Web Development,High,Technical,ReactJS
+Next.js,Web Development,Medium,Technical,NextJS
+Angular,Web Development,Medium,Technical,
+Vue.js,Web Development,Medium,Technical,Vue
+Node.js,Web Development,High,Technical,NodeJS
+Express.js,Web Development,High,Technical,Express
+Flask,Web Development,High,Technical,
+Django,Web Development,High,Technical,
+FastAPI,Web Development,High,Technical,
+Streamlit,Web Development,High,Technical,
+Gradio,Web Development,Medium,Technical,
+REST API,Web Development,High,Technical,RESTful API
+GraphQL,Web Development,Medium,Technical,
+JSON,Web Development,High,Technical,
+XML,Web Development,Medium,Technical,
+AJAX,Web Development,Medium,Technical,
+JWT,Web Development,Medium,Technical,JSON Web Token
+OAuth,Web Development,Medium,Technical,
+Jinja2,Web Development,Low,Technical,
